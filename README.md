@@ -85,4 +85,6 @@ project/
 - [ ] `.vibe/context/` filled in
 - [ ] Tier chosen; irrelevant parts pruned
 - [ ] First spec + task created with IDs
+- [ ] Create PRD
+- [ ] Create phasewise detailed roadmap
 - [ ] Plan reviewed by a human before code
