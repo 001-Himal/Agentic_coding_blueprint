@@ -1,0 +1,1 @@
+## after planning  create detailed prd.md file and its content , a single source of truth
