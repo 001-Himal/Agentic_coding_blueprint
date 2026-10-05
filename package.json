@@ -1,0 +1,28 @@
+{
+  "name": "agentic-coding-blueprint",
+  "version": "1.0.0",
+  "description": "A universal, AI-agent-friendly project operating system and blueprint for vibe coding with AI coding agents.",
+  "author": "Himal <himalthapa00001234@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/001-Himal/Agentic_coding_blueprint.git"
+  },
+  "keywords": [
+    "agentic-coding",
+    "ai-agents",
+    "vibe-coding",
+    "blueprint",
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "gemini"
+  ],
+  "scripts": {
+    "dev": "echo \"Ready for project development\"",
+    "build": "echo \"Ready for project build\"",
+    "test": "echo \"Ready for project tests\"",
+    "lint": "echo \"Ready for project linting\"",
+    "typecheck": "echo \"Ready for project typechecking\""
+  }
+}

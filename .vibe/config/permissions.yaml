@@ -1,0 +1,14 @@
+# Agent permissions — what the agent may do without asking
+allow:
+  - read_files
+  - edit_code
+  - run_tests
+ask:
+  - install_dependency
+  - modify_protected_files
+  - database_migration
+  - deploy
+deny:
+  - read_secrets
+  - force_push
+  - access_production

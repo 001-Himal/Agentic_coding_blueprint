@@ -1,0 +1,4 @@
+# glossary.md
+
+| Term | Meaning |
+|---|---|

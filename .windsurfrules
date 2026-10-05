@@ -1,0 +1,1 @@
+Always read AGENTS.md and .vibe/README.md first. Follow .vibe/rules/00-core.md. Plan before implementing, keep changes scoped, update tracking files, review diffs, test, never expose secrets.

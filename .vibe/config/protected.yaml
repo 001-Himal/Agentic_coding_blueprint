@@ -1,0 +1,15 @@
+# Paths/files the agent must NOT modify without explicit human approval
+protected:
+  - ".env"
+  - ".env.*"
+  - "secrets/**"
+  - "production/**"
+  - "infrastructure/**"
+  - ".github/workflows/**"
+  - "**/migrations/**"
+  - "**/auth/**"
+  - "**/payments/**"
+  - ".vibe/rules/**"
+  - "AGENTS.md"
+  - "**/*.pem"
+  - "**/*.key"
