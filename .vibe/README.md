@@ -53,6 +53,7 @@ Canonical source of truth for how AI agents work on this project + project track
 ## Agent tracking duties (automatic)
 
 - `planning/current.md` + `sessions/current.md` while working
+- `product/PRD.md` kept as the single source of truth; `planning/roadmap.md` kept phasewise and current
 - move tasks between `tasks/` folders
 - `releases/changelog.md` every change
 - `decisions/` every architectural call (ADR)

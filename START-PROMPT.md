@@ -10,6 +10,7 @@ Before doing anything:
 4. Read .vibe/context/project.md, stack.md, architecture.md
 5. Read .vibe/config/protected.yaml and permissions.yaml
 6. Check .vibe/planning/current.md and .vibe/sessions/current.md for state
+7. Ensure .vibe/product/PRD.md and .vibe/planning/roadmap.md exist; if not, the AI creates them during planning (project-specific, PRD = single source of truth, roadmap = phasewise detailed, phases decided at planning).
 
 Then inspect the codebase and produce a plan for my task.
 Do NOT write code until I approve the plan.

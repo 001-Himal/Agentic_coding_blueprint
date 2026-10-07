@@ -1,4 +1,4 @@
-# Agent permissions — what the agent may do without asking
+# Agent permissions - what the agent may do without asking
 allow:
   - read_files
   - edit_code
@@ -12,3 +12,4 @@ deny:
   - read_secrets
   - force_push
   - access_production
+

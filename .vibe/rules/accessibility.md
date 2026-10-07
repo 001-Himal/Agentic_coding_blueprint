@@ -5,3 +5,4 @@
 - Visible focus states.
 - WCAG AA contrast minimum.
 - Forms have labels and error messages.
+- Implementation detail: `design/accessibility.md`; enforcement check: `verification/accessibility.md`.

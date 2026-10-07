@@ -9,6 +9,7 @@ Do NOT:
 - inconsistent button styles
 - new colors when a token works
 - duplicate components with slightly different styling
+- bg/text color conflicts: low-contrast pairings, gray-on-gray, white text on unmeasured brand colors, faded "ghost" text, text directly over images without scrim. See `design/color.md`.
 - icons where text is clearer
 - sacrifice usability for visual novelty
 - display tech stack badges, library names, or architecture bragging in UI (e.g., "Powered by X", "Auth via Supabase", "Database: PostgreSQL")
